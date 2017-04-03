@@ -6,3 +6,13 @@ img{
 
 	display: none;
 }
+
+ p {
+        cursor: pointer;
+        color: #0088cc;
+      }
+
+      .clickable:hover {
+        text-decoration: underline;
+        color: green;
+      }
